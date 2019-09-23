@@ -1,0 +1,142 @@
+section{
+    
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    height: 569px;
+    width: 800px;
+    margin: 33px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+h2{
+    position: relative;
+    height: 15px;
+    padding: 2px;
+    margin-bottom: 10px;
+    text-align: center;
+    font: 200;
+    float: left;
+    color: #4aaaa5;
+    font-size: 32px;
+}
+
+hr{
+    width: 100%;
+}
+
+
+.tile{
+    float: left;
+   
+}
+
+.Overlay{
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 12.30%;
+    color: #ffffff;
+    text-align: center;
+    margin: -2px;
+    padding: -2px;
+    font-size: 24px;
+    bottom: 414px;
+    margin-left: 0px;
+}
+.tile2{
+    float: left;
+    padding: 13px;
+    margin: -38px;
+    margin-left: 20px;
+}
+.second{
+    padding: 20px;
+}
+.Ontop{
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 12.30%;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 0px;
+    font-size: 24px;
+    bottom: 413px;
+}
+.tile3{
+    float: left;
+    padding: 23px;
+    margin: 79px;
+    margin-left: -311px;
+
+}
+
+.Ontop2{
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 12.30%;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 0px;
+    font-size: 24px;
+    bottom: 240px;
+}
+
+.tile4{
+    padding: 21px;
+    margin: -15px;
+    margin-right: 500px;
+    margin-left: 154px;
+} 
+
+.Ontop3{
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 12.30%;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 0px;
+    font-size: 24px;
+    bottom: 240px;
+}
+
+.tile5{
+    padding: 3px;
+    margin: -49px;
+    margin-right: 265px;
+    margin-left: auto;
+}
+
+.Ontop4{
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 12.30%;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 0px;
+    font-size: 24px;
+    bottom: 68px;
+}
+
+
+
+
+
+
+
+.footer {
+    text-align: center; 
+    grid-row-start: 2;
+    grid-row-end: 3;
+    background: grey;
+    color: white;
+    padding: 20px;
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+    bottom:0;
+    width:100%;
+}
